@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Vision Transformer (ViT) from Scratch</h1>
+  <h1>Vision Transformer (ViT)</h1>
 </div>
 
 A complete implementation of the Vision Transformer architecture built from scratch for image classification on the MNIST dataset.
