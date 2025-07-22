@@ -1,0 +1,10 @@
+image_size = 28
+patch_size = 4
+channels = 1
+embed_dim = 64
+mlp_dim = 256
+num_heads = 4
+num_classes = 10
+transformer_units = 6
+batch_size = 128
+epochs = 20
